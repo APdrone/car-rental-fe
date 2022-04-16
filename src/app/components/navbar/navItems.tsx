@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import styled, { css } from "styled-components";
 import tw from "twin.macro";
 import { slide as Menu } from "react-burger-menu";
