@@ -172,19 +172,19 @@ const Footer = () => {
             <HeaderTitle>Our Links</HeaderTitle>
 
             <ListItem>
-              <a href="#">Home</a>
+              <a href="https://www.google.com/">Home</a>
             </ListItem>
             <ListItem>
-              <a href="#">About Us</a>
+              <a href="https://www.google.com/">About Us</a>
             </ListItem>
             <ListItem>
-              <a href="#">Services</a>
+              <a href="https://www.google.com/">Services</a>
             </ListItem>
             <ListItem>
-              <a href="#">Models</a>
+              <a href="https://www.google.com/">Models</a>
             </ListItem>
             <ListItem>
-              <a href="#">Blog</a>
+              <a href="https://www.google.com/">Blog</a>
             </ListItem>
           </LinksList>
         </SectionContainer>
@@ -194,19 +194,19 @@ const Footer = () => {
             <HeaderTitle>Other Links</HeaderTitle>
 
             <ListItem>
-              <a href="#">FAQ</a>
+              <a href="https://www.google.com/">FAQ</a>
             </ListItem>
             <ListItem>
-              <a href="#">Contact Us</a>
+              <a href="https://www.google.com/">Contact Us</a>
             </ListItem>
             <ListItem>
-              <a href="#">Support</a>
+              <a href="https://www.google.com/">Support</a>
             </ListItem>
             <ListItem>
-              <a href="#">Privacy Poliy</a>
+              <a href="https://www.google.com/">Privacy Poliy</a>
             </ListItem>
             <ListItem>
-              <a href="#">Terms &amp; Conditions</a>
+              <a href="https://www.google.com/">Terms &amp; Conditions</a>
             </ListItem>
           </LinksList>
         </SectionContainer>
