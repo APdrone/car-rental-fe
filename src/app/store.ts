@@ -2,6 +2,7 @@ import {
   configureStore,
   ThunkAction,
   Action,
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   getDefaultMiddleware,
 } from "@reduxjs/toolkit";
 import homePageReducer from "./containers/HomePage/slice";
